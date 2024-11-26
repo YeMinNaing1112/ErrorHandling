@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ErrorHandling</string>
+    <string name="the_request_timeout">The Request Time Out</string>
+    <string name="too_many_request">Too Many Request\n\n</string>
+    <string name="no_internet">No Internet\n</string>
+    <string name="payload_too_large">PayLoad Too Large\n</string>
+    <string name="sever_error">Server Error\n</string>
+    <string name="serialization">Serialization\n</string>
+    <string name="unknown">Unknown</string>
+    <string name="dask_full">Dask Full\n</string>
 </resources>
